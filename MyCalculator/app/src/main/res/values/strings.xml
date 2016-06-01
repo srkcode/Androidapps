@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="large_text">Large Text ...</string>
+    <string name="enter_two_numbers">Enter two Numbers</string>
+    <string name="result">Result</string>
+    <string name="_0_0">0.0</string>
+</resources>
